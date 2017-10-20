@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.ca.rps.controllers;
+package edu.cnm.deepdive.ca.rps.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
